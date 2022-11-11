@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Aplicação para controle de orçamento familiar.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
+    "dev": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +17,12 @@
   "bugs": {
     "url": "https://github.com/Vict0r-Gu1lherme/My-Finances/issues"
   },
-  "homepage": "https://github.com/Vict0r-Gu1lherme/My-Finances#readme"
+  "homepage": "https://github.com/Vict0r-Gu1lherme/My-Finances#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.7.2"
+  }
 }
