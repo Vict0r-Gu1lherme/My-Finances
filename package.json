@@ -1,0 +1,19 @@
+{
+  "name": "my-finances",
+  "version": "1.0.0",
+  "description": "Aplicação para controle de orçamento familiar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vict0r-Gu1lherme/My-Finances.git"
+  },
+  "author": "Victor Guilherme",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vict0r-Gu1lherme/My-Finances/issues"
+  },
+  "homepage": "https://github.com/Vict0r-Gu1lherme/My-Finances#readme"
+}
