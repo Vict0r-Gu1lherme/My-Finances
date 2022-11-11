@@ -1,5 +1,5 @@
 # My-Finances
-Aplicação para controle de orçamento familiar.
+Esta é uma API ( Application Program Interface ) que permite a visualização e interação com o banco de um sistema de receitas e de despesas. Permitindo a visualização,criação, edição e remoção de novas receitas e despesas seguindo algumas validações e regras de negócio 
 
 ## Inicialização 
  
